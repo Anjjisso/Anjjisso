@@ -1,1 +1,89 @@
+name: GitHub Metrics — Evernight Style
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # update setiap 6 jam
+  workflow_dispatch:
+  push:
+    branches: ["main"]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: GitHub Metrics (Evernight)
+        uses: lowlighter/metrics@latest
+        with:
+          # ==========================
+          # Basic Config
+          # ==========================
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Anjjisso
+          template: classic
+          base: header, activity, community, repositories
+          
+          # ==========================
+          # Evernight Dark Theme
+          # ==========================
+          config_timezone: Asia/Makassar
+          config_twemoji: yes
+          config_animations: yes
+          config_padding: 15, 25
+          config_border: none
+          config_octicon: yes
+          config_display: large
+
+          # ==========================
+          # Typing Animation (Hello I'm Anjjisso)
+          # ==========================
+          plugin_typing: yes
+          plugin_typing_title: "Hello, I'm Anjjisso"
+          plugin_typing_words: >
+            Developer, Fullstack, NodeJS, NestJS, React, Flutter, Prisma,
+            Evernight Dreamer
+          plugin_typing_display: animated
+          plugin_typing_duration: 2500
+
+          # ==========================
+          # Commit & Activity Plugins
+          # ==========================
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full
+
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_details: lines, percentage
+
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
+
+          plugin_followup: yes
+          plugin_followup_sections: user, repositories
+
+          # ==========================
+          # Anime Style Commit Snake
+          # ==========================
+          plugin_skyline: yes
+          plugin_skyline_year: current
+          plugin_skyline_frames: 36
+          plugin_skyline_quality: 1
+          plugin_skyline_compatibility: no
+
+          # ==========================
+          # Aesthetics
+          # ==========================
+          config_order: >
+            typing,
+            base.header,
+            skyline,
+            isocalendar,
+            languages,
+            stargazers,
+            followup,
+            base.repositories,
+            base.activity,
+            base.community
 
