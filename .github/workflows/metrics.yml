@@ -1,0 +1,50 @@
+name: GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # update setiap 12 jam
+  workflow_dispatch:         # bisa run manual
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # --- BASIC PROFILE ---
+          user: anjjisso
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Jakarta
+
+          # --- LANGUAGES ---
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_limit: 10
+          plugin_languages_details: bytes-size, percentage
+
+          # --- ACTIVITY (COMMITS, ISSUES, PR, REVIEW) ---
+          plugin_activity: yes
+          plugin_activity_limit: 7
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+
+          # --- CONTRIBUTION CALENDAR ---
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+
+          # --- ACHIEVEMENTS ---
+          plugin_achievements: yes
+          plugin_achievements_threshold: B
+          plugin_achievements_secrets: no
+          plugin_achievements_display: detailed
+
+          # --- FOLLOWERS ---
+          plugin_followup: yes
+
+          # --- REPO TRAFFIC ---
+          plugin_traffic: yes
