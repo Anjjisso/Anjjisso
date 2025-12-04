@@ -1,4 +1,4 @@
-<p align="right">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=41B5FF&vCenter=true&width=550&lines=Hello+I'm+anjjisso;Backend+Developer;NestJS+%7C+Prisma;TypeScript+Enjoyer" />
 </p>
 
