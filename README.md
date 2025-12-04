@@ -1,20 +1,16 @@
-<div align="right">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=41B5FF&vCenter=true&width=550&lines=Hello+I'm+anjjisso;Backend+Developer;NestJS+%7C+Prisma" />
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=41B5FF&vCenter=true&width=550&lines=Hello+I'm+anjjisso;Backend+Developer;NestJS+%7C+Prisma" />
+
 
 ---
 
 
-  Software Developer • Backend Enthusiast • POS System Builder  
+Software Developer • Backend Enthusiast • POS System Builder  
+
+💼 Currently building: <b>Backend System with NestJS + Prisma</b><br>
+🚀 Interested in: <b>Backend Engineering, Architecture, and API Design</b>
 
 
-
-  💼 Currently building: <b>Backend System with NestJS + Prisma</b><br>
-  🚀 Interested in: <b>Backend Engineering, Architecture, and API Design</b>
-
-
-
-  <img src="https://media4.giphy.com/media/3pluvSE3EL3nVQA1mm/giphy.gif" width="200">
+<img src="https://media4.giphy.com/media/3pluvSE3EL3nVQA1mm/giphy.gif" width="200">
 
 
 ---
