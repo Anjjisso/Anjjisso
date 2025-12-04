@@ -19,7 +19,7 @@ jobs:
           user: anjjisso
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Jakarta
+          config_timezone: Asia/Kuala Lumpur
 
           # --- LANGUAGES ---
           plugin_languages: yes
