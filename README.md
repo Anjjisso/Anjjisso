@@ -9,9 +9,9 @@ Software Developer | Backend Enthusiast | POS System Builder |
 ## 🧠 Tech Stack
 
 ### **Backend & API**
-![NodeJS](https://img.shields.io/badge/NodeJS-3C873A?style=for-the-badge&logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-EA2845?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
@@ -24,14 +24,14 @@ Software Developer | Backend Enthusiast | POS System Builder |
 
 ## 📊 GitHub Analytics  
 
-### 🔥 
+### 🔥 **GitHub Stats**
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=anjjisso&theme=tokyonight&hide_border=false)
 
 ### 📈 **Activity Graph**
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anjjisso&theme=tokyo-night)
 
-### 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjjisso&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmEzbTF0bHQ4cDk0bHd1aTA5MXBxeDBsMHUyanowN3pxdnFwNm9idiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3pluvSE3EL3nVQA1mm/giphy.gif" width="500">
 
 
