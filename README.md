@@ -3,8 +3,7 @@
 </p>
 
 ---
-
-## 🌓 Evernight Developer Profile  
+  
 
 Software Developer • Backend Enthusiast • POS System Builder  
 
@@ -47,5 +46,5 @@ Software Developer • Backend Enthusiast • POS System Builder
 ---
 
 <p align="center">  
-  ⭐ <i>“In the stillness of Evernight, brilliance is forged.”</i> ⭐  
+  ⭐ <i>“The night will soon fall... Shh. Good night.”</i> ⭐  
 </p>
