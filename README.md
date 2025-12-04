@@ -1,4 +1,6 @@
-# Hi, I'm Anjjisso
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&center=true&vCenter=true&width=500&lines=Hello+I'm+anjjisso;Backend+Developer;Clean+Architecture+Enthusiast;NodeJS+%7C+NestJS+%7C+Prisma" />
+</p>
 
 Software Developer | Backend Enthusiast | POS System Builder | 
 
