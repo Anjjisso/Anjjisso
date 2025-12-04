@@ -32,6 +32,6 @@ Software Developer | Backend Enthusiast | POS System Builder |
 
 
 
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmEzbTF0bHQ4cDk0bHd1aTA5MXBxeDBsMHUyanowN3pxdnFwNm9idiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3pluvSE3EL3nVQA1mm/giphy.gif" width="500">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmEzbTF0bHQ4cDk0bHd1aTA5MXBxeDBsMHUyanowN3pxdnFwNm9idiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3pluvSE3EL3nVQA1mm/giphy.gif" width="200">
 
 
