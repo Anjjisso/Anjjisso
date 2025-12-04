@@ -18,7 +18,6 @@ Software Developer • Backend Enthusiast • POS System Builder
 ## 🧠 Tech Stack
 
 ### Backend & API
-<div align="center">
 
 ![NestJS](https://img.shields.io/badge/NestJS-EA2845?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
@@ -26,15 +25,13 @@ Software Developer • Backend Enthusiast • POS System Builder
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 
-</div>
 
 ### Tools
-<div align="center">
+
 
 ![Postman](https://img.shields.io/badge/Postman-F26633?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-</div>
 
 ---
 
