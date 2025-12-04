@@ -4,18 +4,18 @@
 
 ---
 
-<p align="center">
-  Software Developer • Backend Enthusiast • POS System Builder  
-</p>
 
-<p align="center">
+  Software Developer • Backend Enthusiast • POS System Builder  
+
+
+
   💼 Currently building: <b>Backend System with NestJS + Prisma</b><br>
   🚀 Interested in: <b>Backend Engineering, Architecture, and API Design</b>
-</p>
 
-<p align="center">
+
+
   <img src="https://media4.giphy.com/media/3pluvSE3EL3nVQA1mm/giphy.gif" width="200">
-</p>
+
 
 ---
 
