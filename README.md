@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Anjjisso�
+Software Developer | Backend Enthusiast | POS System Builder | 
 
-<!--
-**Anjjisso/Anjjisso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 I’m currently building: BE System with NestJS + Prisma  
+🚀 Interested in: Backend Engineering and API Design
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dihyaaufa&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dihyaaufa&layout=compact&theme=tokyonight)
