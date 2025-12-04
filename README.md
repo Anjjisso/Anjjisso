@@ -22,6 +22,16 @@ Software Developer | Backend Enthusiast | POS System Builder |
 
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=true)
-![Metrics](https://metrics.lecoq.io/USERNAME?template=classic&isocalendar=1&languages=1&followup=1&activity=1&achievements=1&notable=1)
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anjjisso&theme=tokyo-night)
+## 📊 GitHub Analytics  
+
+### 🔥 **GitHub Streak Stats (seperti contoh yang kamu kirim)**
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=false)
+
+### 📈 **Activity Graph**
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night)
+
+### 📊 **GitHub Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+
+
+
