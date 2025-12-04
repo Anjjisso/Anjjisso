@@ -44,7 +44,10 @@ Software Developer • Backend Enthusiast • POS System Builder
 ### 📈 Activity Graph  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anjjisso&theme=tokyo-night)
 
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=anjjisso&theme=tokyonight&show_icons=true&border_radius=15)
 
+
+![Metrics](https://github.com/anjjisso/anjjisso/blob/main/github-metrics.svg)
 
 </div>
