@@ -11,7 +11,7 @@ Software Developer • Backend Enthusiast • POS Nuka System Builder • PONA S
 🚀 Interested in: **Backend Engineering, Architecture, API Design**
 
 
-<img src="https://media4.giphy.com/media/3pluvSE3EL3nVQA1mm/giphy.gif" width="200" /> <img src="https://media4.giphy.com/media/3pluvSE3EL3nVQA1mm/giphy.gif" width="200" /> 
+<img src="https://media4.giphy.com/media/3pluvSE3EL3nVQA1mm/giphy.gif" width="200" /> <img src="https://media4.giphy.com/media/3pluvSE3EL3nVQA1mm/giphy.gif" width="200" /> <img src="https://media4.giphy.com/media/3pluvSE3EL3nVQA1mm/giphy.gif" width="200" />
 
 
 ---
