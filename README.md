@@ -40,7 +40,7 @@
 
 ## 📊 GitHub Analytics  
 
-<div align="center">
+
 
 ### 🔥 GitHub Streak Stats  
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=anjjisso&theme=tokyonight&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
@@ -50,7 +50,7 @@
 ### 📈 Contribution Activity  
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anjjisso&theme=tokyo-night)
 
-</div>
+
 
 ---
 
