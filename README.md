@@ -43,7 +43,7 @@
 <div align="center">
 
 ### 🔥 GitHub Streak Stats  
-![Streak](https://github-readme-streak-stats.vercel.app/?user=anjjisso)
+![GitHub Streak](https://streak-stats.demolab.com?user=anjjisso)
 
 
 ### 📈 Contribution Activity  
