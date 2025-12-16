@@ -43,7 +43,8 @@
 <div align="center">
 
 ### 🔥 GitHub Streak Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=anjjisso)
+![GitHub Streak](https://streak-stats.demolab.com?user=anjjisso&theme=tokyonight)
+
 
 
 ### 📈 Contribution Activity  
