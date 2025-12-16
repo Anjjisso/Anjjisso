@@ -40,8 +40,6 @@
 
 ## 📊 GitHub Analytics  
 
-
-  
 ### 🔥 GitHub Streak Stats  
 ![GitHub Streak](https://streak-stats.demolab.com?user=anjjisso&theme=tokyonight&hide_border=true)
 
