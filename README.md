@@ -47,7 +47,7 @@
 
 
 ### 📈 Contribution Activity  
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=anjjisso&theme=tokyo-night)
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anjjisso&theme=tokyonight)
 
 
 
